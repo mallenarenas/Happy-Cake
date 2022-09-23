@@ -4,7 +4,7 @@ const Contacto = () => {
   return (
     <Container className="text-center">
       <h1 className="pt-5">
-        Cuentanos, ¿en qué te podemos ayudar? 
+        Cuéntanos, ¿en qué te podemos ayudar? 
       </h1>
       <Form>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
